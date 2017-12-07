@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <WorkTypeDef>
+    <defName>Counselor</defName>
+    <labelShort>Counselor</labelShort>
+    <pawnLabel>Counselor</pawnLabel>
+    <gerundLabel>counseling</gerundLabel>
+    <description>Speaks with and eases the mings of other pawns.</description>
+    <verb>Counsel</verb>
+    <naturalPriority>1075</naturalPriority>
+    <requireCapableColonist>true</requireCapableColonist>
+    <relevantSkills>
+      <li>Social</li>
+    </relevantSkills>
+    <workTags>
+      <li>Social</li>
+    </workTags>
+  </WorkTypeDef>
+
+</Defs>
